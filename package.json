@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-bonesmart-hlightstrip",
+  "version": "0.0.1",
+  "description": "H-LightStrip Plugin by Bone Smart Technology: https://github.com/nfarina/homebridge",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BoneSmartTechnology/homebridge-bonesmart-hlightstrip.git"
+  },
+  "bugs": {
+    "url": "http://github.com/BoneSmartTechnology/homebridge-bonesmart-hlightstrip/issues"
+  },
+  "author": {
+    "name": "Renan Consalter",
+    "email": "renan@bonesmart.tech"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.3.0"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "dependencies": {
+    "color-convert": "^1.5.0"
+  }
+}
